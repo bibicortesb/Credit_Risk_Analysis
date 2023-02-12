@@ -21,7 +21,7 @@ For all the models, the following structure was followed:
 - Traing the model
 - Test
 
-# RandomOverSampler (oversampling)
+### RandomOverSampler (oversampling)
 - Accuracy 
 
 
@@ -37,7 +37,7 @@ For all the models, the following structure was followed:
 
 
 
-# SMOTE (oversampling)
+### SMOTE (oversampling)
 
 
 - Accuracy 
@@ -50,7 +50,7 @@ For all the models, the following structure was followed:
 - Imbalanced classification report
 
 
-# ClusterCentroids (undersampling)
+### ClusterCentroids (undersampling)
 
 - Accuracy 
 
