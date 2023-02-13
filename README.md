@@ -108,13 +108,18 @@ For all the models, the following structure was followed:
 # EasyEnsembleClassifier
 
 - Accuracy 
-- 
+
+![image](https://user-images.githubusercontent.com/114015620/218568969-53b0424d-2f1f-420e-b177-d8276c67cc2a.png)
+
 
 - Confussion matrix
+
+![image](https://user-images.githubusercontent.com/114015620/218569062-ae0e287c-e4b3-40ce-bc2f-f9b4e63de47b.png)
 
 
 - Imbalanced classification report
 
+![image](https://user-images.githubusercontent.com/114015620/218569123-290511f0-5188-42eb-b015-51c03fd15ce8.png)
 
 
 ## Summary 
