@@ -24,7 +24,7 @@ For all the models, the following structure was followed:
 
 
 
-# EasyEnsembleClassifier-1
+### EasyEnsembleClassifier-1
 
 - Accuracy : 92.6% 
 
@@ -40,7 +40,7 @@ For all the models, the following structure was followed:
 
 ![image](https://user-images.githubusercontent.com/114015620/218569123-290511f0-5188-42eb-b015-51c03fd15ce8.png)
 
-# BalancedRandomForestClassifier-2
+### BalancedRandomForestClassifier-2
 
 - Accuracy 78.2%
 
@@ -127,7 +127,10 @@ For all the models, the following structure was followed:
 ![image](https://user-images.githubusercontent.com/114015620/218566216-7e2431d9-409a-4f30-b4d9-9eb8beb6c2e3.png)
 
 
-
-
-
 ## Summary 
+
+The models are ordered from the best model to the worst. In first place EasyEnsembleClassifier is found with an accuracy of 92.6%. Even when this may seem as a good score, the intention of the analysis was to find the customers' with high risk status, the best this model could achieve was 0.14. Through this analysis it is proven how unbalanced data plays a major role for model predictions. There is a high chance of commiting error Type II  ___.  
+
+
+
+
