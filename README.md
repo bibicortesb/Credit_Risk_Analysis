@@ -129,7 +129,7 @@ For all the models, the following structure was followed:
 
 ## Summary 
 
-The models are ordered from the best model to the worst. In first place EasyEnsembleClassifier is found with an accuracy of 92.6%. Even when this may seem as a good score, the intention of the analysis was to find the customers' with high risk status, the best this model could achieve was 0.14. Through this analysis it is proven how unbalanced data plays a major role for model predictions. There is a high chance of commiting error Type II  ___.  
+The models are ordered from the best model to the worst. In first place EasyEnsembleClassifier is found with an accuracy of 92.6%. Even when this may seem as a good score, the intention of the analysis was to find the customers' with high risk status, the best this model could achieve was 0.14. Through this analysis it is proven how unbalanced data plays a major role for model predictions. There is a high chance of commiting error Type II.  
 
 
 
